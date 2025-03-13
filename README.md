@@ -15,13 +15,13 @@ Enrichment Data: Weather Conditions
   -Data Source: Weather API for daily temperature, humidity, and air quality
 # Methodology
  1. Data Preprocessing
-  -Cleaning and structuring the exported data
-  -Merging fitness, sleep, and weather datasets
+-Cleaning and structuring the exported data
+-Merging fitness, sleep, and weather datasets
  2. Exploratory Data Analysis (EDA)
-  -Trends in sleep patterns and workout intensity
-  -Identifying correlations (e.g., Does higher workout intensity improve sleep?)
+-Trends in sleep patterns and workout intensity
+-Identifying correlations (e.g., Does higher workout intensity improve sleep?)
  3. Statistical & Hypothesis Testing
-  -T-tests or ANOVA to compare sleep quality on workout vs. non-workout days
+-T-tests or ANOVA to compare sleep quality on workout vs. non-workout days
  4. Machine Learning & Predictive Modeling 
-  -Regression models to predict sleep duration based on exercise intensity
-  -Clustering to find common sleep-exercise behavior groups
+-Regression models to predict sleep duration based on exercise intensity
+-Clustering to find common sleep-exercise behavior groups
