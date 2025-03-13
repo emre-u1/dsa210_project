@@ -17,11 +17,11 @@ Enrichment Data: Weather Conditions
  1. Data Preprocessing  
   -Cleaning and structuring the exported data
   -Merging fitness, sleep, and weather datasets
- 2. Exploratory Data Analysis (EDA)
+ 3. Exploratory Data Analysis (EDA)
   -Trends in sleep patterns and workout intensity
   -Identifying correlations (e.g., Does higher workout intensity improve sleep?)
- 3. Statistical & Hypothesis Testing
+ 4. Statistical & Hypothesis Testing
   -T-tests or ANOVA to compare sleep quality on workout vs. non-workout days
- 4. Machine Learning & Predictive Modeling 
+ 5. Machine Learning & Predictive Modeling 
   -Regression models to predict sleep duration based on exercise intensity
   -Clustering to find common sleep-exercise behavior groups
