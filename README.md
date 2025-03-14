@@ -10,7 +10,7 @@ And with this project I can clearly see the impact that sleep has on my fitness 
 
 ## Data Collection
 
-### Fitness Data (Mac+ app)
+### Fitness Data (Mac+ App)
 - **Metrics Collected:** Workout duration, workout times (time entered, time left), calories burned, heart rate, exercise type
 - **Collection Method:** Exported from Mac+
 
@@ -25,9 +25,9 @@ And with this project I can clearly see the impact that sleep has on my fitness 
  1. **Data Preprocessing1**
 - Clarifying, clearing and structuring the exported data
 - Merging fitness, sleep, and weather datasets
- 2. **Exploratory Data Analysis (EDA)**
+ 2. **Exploratory Data Analysis**
 - Trends in sleep patterns and workout intensity
-- Identifying correlations (e.g., Does higher workout intensity improve sleep?)
+- Identifying correlations (Does higher workout intensity improve sleep?)
  3. **Statistical & Hypothesis Testing**
 - Inferential tests to compare sleep quality on workout vs. non-workout days
  4. **Machine Learning & Predictive Modeling**
